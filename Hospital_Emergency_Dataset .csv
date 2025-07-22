@@ -1,0 +1,51 @@
+Patient ID,Age,Gender,Arrival Time,Triage Level,Wait Time (mins),Diagnosis,Doctor Name,Discharge Time,Outcome
+P001,32,M,14:19,Urgent,36,Headache,Dr Adams,16:12,Discharged
+P002,29,F,08:16,Non-Urgent,16,Headache,Dr Adams,09:34,Admitted
+P003,43,F,09:52,Urgent,80,Fever,Dr Smith,12:30,Admitted
+P004,72,F,10:22,Non-Urgent,32,Fever,Dr Smith,11:29,Discharged
+P005,63,F,13:09,Urgent,10,Abdominal Pain,Dr Lee,14:23,Discharged
+P006,66,M,12:42,Urgent,85,Stroke,Dr Taylor,15:13,Discharged
+P007,26,M,13:38,Non-Urgent,42,Chest Pain,Dr Adams,15:45,Discharged
+P008,53,F,13:25,Urgent,25,Fever,Dr Taylor,14:33,Admitted
+P009,27,M,12:33,Emergency,7,Headache,Dr Lee,13:34,Discharged
+P010,46,F,15:11,Non-Urgent,34,Chest Pain,Dr Taylor,16:40,Discharged
+P011,45,F,09:48,Emergency,15,Fracture,Dr Lee,10:42,Discharged
+P012,49,F,14:22,Emergency,13,Stroke,Dr Lee,15:28,Discharged
+P013,35,F,08:46,Non-Urgent,19,Headache,Dr Adams,10:25,Admitted
+P014,26,F,11:15,Emergency,14,Stroke,Dr Taylor,12:34,Admitted
+P015,19,M,13:49,Emergency,8,Abdominal Pain,Dr Taylor,14:34,Discharged
+P016,38,F,08:01,Emergency,8,Stroke,Dr Adams,09:11,Transferred
+P017,56,M,09:18,Urgent,25,Stroke,Dr Smith,10:51,Discharged
+P018,20,M,15:55,Urgent,44,Headache,Dr Smith,17:24,Admitted
+P019,28,M,14:14,Urgent,13,Stroke,Dr Adams,15:05,Admitted
+P020,39,F,12:30,Emergency,13,Headache,Dr Adams,13:58,Discharged
+P021,65,F,15:40,Emergency,14,Chest Pain,Dr Adams,16:38,Discharged
+P022,20,M,13:01,Non-Urgent,5,Chest Pain,Dr Smith,13:50,Discharged
+P023,22,F,08:36,Emergency,7,Fever,Dr Lee,09:26,Discharged
+P024,78,M,14:41,Urgent,57,Headache,Dr Smith,16:14,Admitted
+P025,63,F,11:30,Urgent,11,Abdominal Pain,Dr Smith,12:14,Discharged
+P026,61,M,10:07,Non-Urgent,29,Stroke,Dr Lee,11:14,Discharged
+P027,53,F,10:07,Non-Urgent,61,Stroke,Dr Smith,11:41,Admitted
+P028,19,M,15:54,Non-Urgent,26,Fracture,Dr Lee,17:20,Discharged
+P029,69,M,09:24,Urgent,5,Fracture,Dr Taylor,10:58,Admitted
+P030,76,F,11:36,Emergency,15,Headache,Dr Adams,12:39,Discharged
+P031,25,M,14:22,Urgent,12,Chest Pain,Dr Lee,15:36,Transferred
+P032,85,M,08:29,Emergency,2,Headache,Dr Smith,09:39,Discharged
+P033,48,F,09:01,Emergency,7,Stroke,Dr Smith,10:17,Discharged
+P034,84,F,15:58,Urgent,31,Abdominal Pain,Dr Taylor,17:14,Discharged
+P035,34,F,11:54,Urgent,14,Chest Pain,Dr Lee,13:17,Transferred
+P036,30,M,12:35,Non-Urgent,69,Fever,Dr Adams,15:13,Discharged
+P037,26,M,11:09,Urgent,25,Fracture,Dr Taylor,12:43,Transferred
+P038,85,M,13:41,Emergency,9,Abdominal Pain,Dr Smith,15:20,Admitted
+P039,51,M,15:35,Non-Urgent,75,Headache,Dr Taylor,17:38,Admitted
+P040,61,M,13:51,Emergency,8,Stroke,Dr Lee,14:45,Transferred
+P041,24,M,13:24,Urgent,40,Chest Pain,Dr Smith,14:55,Admitted
+P042,51,M,14:19,Urgent,75,Abdominal Pain,Dr Lee,16:39,Discharged
+P043,27,M,12:39,Non-Urgent,52,Stroke,Dr Adams,14:28,Discharged
+P044,57,F,15:40,Non-Urgent,50,Headache,Dr Adams,17:42,Discharged
+P045,70,M,15:53,Non-Urgent,25,Headache,Dr Lee,16:49,Discharged
+P046,60,F,14:50,Emergency,7,Fever,Dr Adams,16:17,Admitted
+P047,66,M,15:19,Urgent,33,Headache,Dr Lee,16:44,Discharged
+P048,47,M,08:12,Emergency,6,Fracture,Dr Taylor,09:05,Admitted
+P049,53,F,13:28,Emergency,12,Abdominal Pain,Dr Taylor,15:10,Discharged
+P050,51,M,12:57,Urgent,9,Chest Pain,Dr Lee,13:58,Admitted
